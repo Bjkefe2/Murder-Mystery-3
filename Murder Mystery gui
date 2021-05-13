@@ -49,7 +49,7 @@ local Code =
 local Esp =
     library:MakeToggle(
     tab1,
-    "Esp",
+    "Sherif/Murder Esp",
     false,
     function(Esp)
         while wait() do
@@ -113,7 +113,4 @@ local Esp =
                 break
             end
         end
-    end
-)
-local Owner = library:MakeLabel(tab1, "Credits:efeeee#8151")
-
+    end)
