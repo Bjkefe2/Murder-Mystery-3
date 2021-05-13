@@ -113,7 +113,7 @@ local Esp =
                 break
             end
         end
-
-        local Owner = library:MakeLabel(tab1, "Credits:efeeee#8151")
     end
 )
+local Owner = library:MakeLabel(tab1, "Credits:efeeee#8151")
+
